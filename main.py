@@ -4,8 +4,8 @@ import datetime as dt
 import pandas
 import smtplib
 
-my_email = "euronama7@gmail.com"
-password = "yfqr lpma ncce giye"
+my_email = "nameandfamily@gmail.com"
+password = "Replace with yours"
 folder_path = "./letter_templates"
 
 now = dt.datetime.now()
